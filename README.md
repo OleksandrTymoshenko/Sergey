@@ -1,1 +1,1 @@
-# Sergey
+# goit-markup-hw-01.
