@@ -115,7 +115,7 @@ header .logo {
   margin-right: 5px;
 }
 
-.logo-color-waite {
+.logo-color-white {
   color: var(--white-color);
   display: inline-block;
   margin-right: 5px;
@@ -203,7 +203,7 @@ header .logo {
 .header-tel {
   display: flex;
   align-items: center;
-  color: var(--primary-text-color);
+  color: var(--sec-color);
   font-size: 14px;
   font-weight: 500;
   line-height: 1.14;
@@ -219,7 +219,7 @@ header .logo {
 
 .header-mail,
 .header-tel {
-  color: var(--primary-text-color);
+  color: var(--sec-color);
   font-size: 14px;
   font-weight: 500;
   line-height: 1.14;
@@ -235,12 +235,12 @@ header .logo {
 
 .header-mail:hover,
 .header-mail:focus {
-  color: var(--accent-color);
+  color: var(--act-color);
 }
 
 .header-tel:hover,
 .header-tel:focus {
-  color: var(--accent-color);
+  color: var(--act-color);
 }
 
 .header-contacts {
@@ -296,7 +296,7 @@ header .logo {
 .container button:hover,
 .container button:focus {
   background-color: #2196f3;
-  color: var(--whaite-color);
+  color: var(--white-color);
 }
 
 .footer li a:hover,
@@ -357,7 +357,7 @@ header .logo {
 }
 /* .hero-button {
   background-color: var(--act-color);
-  color: var(--whaite-color);
+  color: var(--white-color);
   padding: 10px 32px;
   font-size: 16px;
   line-height: 1.87;
@@ -371,7 +371,7 @@ header .logo {
 
 .button {
   color: var(--main-color);
-  background-color: var(--whaite-color);
+  background-color: var(--white-color);
   font-family: 'roboto', sans-serif;
   background-color: #f5f4fa;
   font-weight: 500;
@@ -393,7 +393,7 @@ header .logo {
 
 .button.primary {
   background-color: var(--act-color);
-  color: var(--whaite-color);
+  color: var(--white-color);
   width: 73px;
   height: 38px;
   left: 495px;
@@ -417,7 +417,7 @@ header .logo {
   height: 50px;
   left: 700px;
   top: 430px;
-  color: var(--whaite-color);
+  color: var(--white-color);
 }
 
 /* card portfolio */
@@ -573,7 +573,7 @@ header .logo {
 .card-content {
   padding-top: 30px;
   text-align: center;
-  background-color: var(--whaite-color);
+  background-color: var(--white-color);
   height: 108px;
 }
 
